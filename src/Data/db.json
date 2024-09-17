@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "900000222",
+      "role": "staff"
+    },
+    {
+      "id": "2",
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "900000222",
+      "role": "admin"
+    },
+    {
+      "id": "3",
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "900000222",
+      "role": "staff"
+    },
+    {
+      "id": "4",
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "900000222",
+      "role": "staff"
+    }
+  ]
+}
